@@ -58,8 +58,9 @@ open index.html
 
 ## 📸 Screenshots
 
-| Desktop View |
-| ![Desktop](netflix_clone-project/NetFlix clone/assets/home.png) | ![Content](NetFlix clone/assets/content.png) |
+| Desktop View | Content View |
+|---|---|
+| ![Desktop](./NetFlix%20clone/assets/home.png) | ![Content](./NetFlix%20clone/assets/content.png) |
 
 ---
 
