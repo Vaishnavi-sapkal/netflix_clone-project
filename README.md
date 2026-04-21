@@ -59,7 +59,7 @@ open index.html
 ## 📸 Screenshots
 
 | Desktop View |
-| ![Desktop](./assets/home.png) | ![Content](./assets/content.png) |
+| ![Desktop](./NetFlix clone/assets/home.png) | ![Content](./NetFlix clone//assets/content.png) |
 
 ---
 
